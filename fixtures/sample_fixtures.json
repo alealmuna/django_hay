@@ -1,0 +1,110 @@
+[
+    {
+        "pk": 1, 
+        "model": "auth.user", 
+        "fields": {
+            "username": "pinkman", 
+            "first_name": "jesse", 
+            "last_name": "pinkman", 
+            "is_active": true, 
+            "is_superuser": false, 
+            "is_staff": false, 
+            "last_login": "2012-07-06 17:30:11", 
+            "groups": [], 
+            "user_permissions": [], 
+            "password": "", 
+            "email": "", 
+            "date_joined": "2012-07-06 17:30:11"
+        }
+    }, 
+    {
+        "pk": 2, 
+        "model": "auth.user", 
+        "fields": {
+            "username": "heisenberg", 
+            "first_name": "walter", 
+            "last_name": "white", 
+            "is_active": true, 
+            "is_superuser": false, 
+            "is_staff": false, 
+            "last_login": "2012-07-06 17:45:41", 
+            "groups": [], 
+            "user_permissions": [], 
+            "password": "", 
+            "email": "", 
+            "date_joined": "2012-07-06 17:45:41"
+        }
+    }, 
+    {
+        "pk": 3, 
+        "model": "auth.user", 
+        "fields": {
+            "username": "sky", 
+            "first_name": "skyler", 
+            "last_name": "white", 
+            "is_active": true, 
+            "is_superuser": false, 
+            "is_staff": false, 
+            "last_login": "2012-07-09 18:03:27", 
+            "groups": [], 
+            "user_permissions": [], 
+            "password": "", 
+            "email": "", 
+            "date_joined": "2012-07-09 18:03:27"
+        }
+    }, 
+    {
+        "pk": 4, 
+        "model": "auth.user", 
+        "fields": {
+            "username": "hank", 
+            "first_name": "hank", 
+            "last_name": "shrader", 
+            "is_active": true, 
+            "is_superuser": false, 
+            "is_staff": false, 
+            "last_login": "2012-07-09 18:03:54", 
+            "groups": [], 
+            "user_permissions": [], 
+            "password": "", 
+            "email": "", 
+            "date_joined": "2012-07-09 18:03:54"
+        }
+    }, 
+    {
+        "pk": 5, 
+        "model": "auth.user", 
+        "fields": {
+            "username": "gus", 
+            "first_name": "gustavo", 
+            "last_name": "frink", 
+            "is_active": true, 
+            "is_superuser": false, 
+            "is_staff": false, 
+            "last_login": "2012-07-09 18:04:20", 
+            "groups": [], 
+            "user_permissions": [], 
+            "password": "", 
+            "email": "", 
+            "date_joined": "2012-07-09 18:04:20"
+        }
+    }, 
+    {
+        "pk": 6, 
+        "model": "auth.user", 
+        "fields": {
+            "username": "saul", 
+            "first_name": "saul", 
+            "last_name": "godman", 
+            "is_active": true, 
+            "is_superuser": false, 
+            "is_staff": false, 
+            "last_login": "2012-07-09 18:04:38", 
+            "groups": [], 
+            "user_permissions": [], 
+            "password": "", 
+            "email": "", 
+            "date_joined": "2012-07-09 18:04:38"
+        }
+    }
+]
