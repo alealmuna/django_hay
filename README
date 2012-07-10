@@ -1,0 +1,9 @@
+== DJANGO HAYSTACK TEMPLATE ===
+
+Django project with sample user fixtures, configured to use the elastic_search
+engine with the haystack framework. Search is run over the fields username, 
+first_name and last_name.
+
+DEPENDENCIES
+- haystacksearch.org
+- elasticsearch.org
